@@ -1,5 +1,5 @@
 #THIS IS CREATED BY AIBAL AND ANY ERROR IN THIS CODE IS NATURAL SO TAKE IT ON THAT SENSE.
-ptint("Program to check the given number is a palindrome\n")
+print("Program to check the given number is a palindrome\n")
 n=int(input("Enter number:"))
 temp=n
 A=0
